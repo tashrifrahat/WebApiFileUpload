@@ -1,0 +1,5 @@
+endpoint,email,password
+api/register,one@gmain.com,pistol
+api/register,ami@gmail.com,here
+api/register,tmi@gmail.com,there
+api/register,eve.holt@reqres.in,last
